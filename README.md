@@ -2,6 +2,8 @@
 
 Shopping Cart using react and typescript
 
+Link : 'https://appshoppingcart.herokuapp.com/'
+
 ## Functionality
 
 * items display by fetching api
